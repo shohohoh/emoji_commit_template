@@ -1,0 +1,18 @@
+
+
+# ==== Emojis ====
+# 🐛  :bug: バグ修正
+# ✏️  :pencil2: 機能改善・修正
+# ✨  :sparkles: 新しい機能追加
+# 🎉  :tada: 大きな機能追加
+# ♻️  :recycle: リファクタリング
+# 🔥  :fire: 不要部分の削除
+# 🔍  :mag: テスト関連
+# 👀  :eyes: lintやrubocopの修正やコードスタイルの修正
+# ✂️  :scissors: conflictの解消
+# 🚀  :rocket: パフォーマンス改善
+
+# ==== Format ====
+# :emoji: Subject
+#
+# Commit body...
