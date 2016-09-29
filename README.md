@@ -1,0 +1,1 @@
+# emoji_commit_template
